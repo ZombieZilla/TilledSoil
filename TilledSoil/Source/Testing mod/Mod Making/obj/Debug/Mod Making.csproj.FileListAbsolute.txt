@@ -14,3 +14,6 @@ E:\Rimworld\Mods\MyMod\Assemblies\Mod Making.dll
 E:\Rimworld\Mods\MyMod\Source\Testing mod\Mod Making\obj\Debug\Mod Making.csprojAssemblyReference.cache
 E:\Rimworld\Mods\MyMod\Source\Testing mod\Mod Making\obj\Debug\Mod Making.csproj.CopyComplete
 E:\Rimworld\Mods\MyMod\Source\Testing mod\Mod Making\obj\Debug\Mod Making.dll
+C:\Users\joshu\Documents\GitHub\TilledSoil\TilledSoil\Assemblies\Mod Making.dll
+C:\Users\joshu\Documents\GitHub\TilledSoil\TilledSoil\Source\Testing mod\Mod Making\obj\Debug\Mod Making.csprojAssemblyReference.cache
+C:\Users\joshu\Documents\GitHub\TilledSoil\TilledSoil\Source\Testing mod\Mod Making\obj\Debug\Mod Making.dll
