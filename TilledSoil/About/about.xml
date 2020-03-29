@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Tilled Soil</name>
+	<author>ZombieZilla</author>
+	<packageId>zilla.tilledsoil</packageId>
+	<description>This mod adds Tilled Soil, a constructible tile that you can plant and grow crops on. You can customise the settings to your liking through the mod settings page. 1.1 only.</description>
+	<supportedVersions>
+		<li>1.1</li>
+	</supportedVersions>
+</ModMetaData>

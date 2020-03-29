@@ -1,0 +1,16 @@
+C:\Users\joshu\Desktop\Rimworld\Mods\MyMod\Source\Testing mod\Mod Making\obj\Debug\Mod Making.csprojAssemblyReference.cache
+C:\Users\joshu\Desktop\Rimworld\Mods\MyMod\Assemblies\Mod Making.dll
+C:\Users\joshu\Desktop\Rimworld\Mods\MyMod\Source\Testing mod\Mod Making\obj\Debug\Mod Making.dll
+C:\Users\joshu\Desktop\Rimworld\Mods\MyMod\Source\Testing mod\Mod Making\obj\Debug\Mod Making.csproj.CopyComplete
+K:\Rimworld\Mods\MyMod\Assemblies\Mod Making.dll
+K:\Rimworld\Mods\MyMod\Source\Testing mod\Mod Making\obj\Debug\Mod Making.csprojAssemblyReference.cache
+K:\Rimworld\Mods\MyMod\Source\Testing mod\Mod Making\obj\Debug\Mod Making.dll
+D:\Rimworld\Mods\MyMod\Assemblies\Mod Making.dll
+D:\Rimworld\Mods\MyMod\Source\Testing mod\Mod Making\obj\Debug\Mod Making.csprojAssemblyReference.cache
+D:\Rimworld\Mods\MyMod\Source\Testing mod\Mod Making\obj\Debug\Mod Making.csproj.CoreCompileInputs.cache
+D:\Rimworld\Mods\MyMod\Source\Testing mod\Mod Making\obj\Debug\Mod Making.csproj.CopyComplete
+D:\Rimworld\Mods\MyMod\Source\Testing mod\Mod Making\obj\Debug\Mod Making.dll
+E:\Rimworld\Mods\MyMod\Assemblies\Mod Making.dll
+E:\Rimworld\Mods\MyMod\Source\Testing mod\Mod Making\obj\Debug\Mod Making.csprojAssemblyReference.cache
+E:\Rimworld\Mods\MyMod\Source\Testing mod\Mod Making\obj\Debug\Mod Making.csproj.CopyComplete
+E:\Rimworld\Mods\MyMod\Source\Testing mod\Mod Making\obj\Debug\Mod Making.dll
