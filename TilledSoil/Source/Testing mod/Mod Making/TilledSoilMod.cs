@@ -26,7 +26,7 @@ namespace Tilled_Soil_Zilla
 
             BuildableDef fertility = TerrainDef.Named("Ti" +
                 "lledSoil");
-            fertility.description = (Translator.Translate("Tilled Soil, for planting and growing crops on."));
+            fertility.description = ("Tilled Soil, for planting and growing crops on.");
             fertility.fertility = settings.Fertility;
 
         }
