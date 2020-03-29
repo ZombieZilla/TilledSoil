@@ -83,7 +83,6 @@ namespace Tilled_Soil_Zilla
             if (settings.placeonanything != previousTerrainAffordanceDef)
             {
                 TerrainDef soilplacement = TerrainDef.Named("TilledSoil");
-                soilplacement.description = Translator.Translate("TilledSoilDesc");
                 soilplacement.terrainAffordanceNeeded = placeonanything;
             }
             listingStandard.Gap(10f);

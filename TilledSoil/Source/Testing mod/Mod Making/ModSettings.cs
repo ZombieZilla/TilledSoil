@@ -8,7 +8,7 @@ namespace Tilled_Soil_Zilla
     {
         static LaunchLog()
         {
-            Log.Message("Fingers crossed!");
+            //Log.Message("Fingers crossed!");
             TilledSoilMod.ApplySettings();
             if (TilledSoilMod.settings.requirecost == true)
             {
