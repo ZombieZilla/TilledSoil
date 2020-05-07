@@ -8,7 +8,6 @@ namespace Tilled_Soil_Zilla
     {
         static LaunchLog()
         {
-            //Log.Message("Fingers crossed!");
             TilledSoilMod.ApplySettings();
             if (TilledSoilMod.settings.requirecost == true)
             {
@@ -18,8 +17,6 @@ namespace Tilled_Soil_Zilla
             {
                 return;
             }
-
-            
         }
     }
 
@@ -31,6 +28,7 @@ namespace Tilled_Soil_Zilla
         public bool placeonanything = false;
         public bool requirecost = false;
         public int soilcost = 1;
+        public int workamount = 500;
 
         public override void ExposeData()
         {
@@ -38,6 +36,7 @@ namespace Tilled_Soil_Zilla
             Scribe_Values.Look(ref placeonanything, "PlaceOnAnything", false);
             Scribe_Values.Look(ref requirecost, "RequireCost", false, true);
             Scribe_Values.Look(ref soilcost, "SoilCost", 1);
+            Scribe_Values.Look(ref workamount, "WorkAmount", 500);
             base.ExposeData();
         }
 
@@ -47,6 +46,7 @@ namespace Tilled_Soil_Zilla
              placeonanything = false;
              requirecost = false;
              soilcost = 1;
+             workamount = 500;
         }
     }
 }

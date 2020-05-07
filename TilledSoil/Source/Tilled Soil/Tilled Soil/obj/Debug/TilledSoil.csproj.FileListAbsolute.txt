@@ -1,0 +1,5 @@
+C:\Users\joshu\Desktop\Rimworld Local\RimWorld\Mods\TilledSoil\Source\Testing mod\Mod Making\obj\Debug\TilledSoil.csprojAssemblyReference.cache
+C:\Users\joshu\Desktop\Rimworld Local\RimWorld\Mods\TilledSoil\Assemblies\TilledSoil.dll
+C:\Users\joshu\Desktop\Rimworld Local\RimWorld\Mods\TilledSoil\Source\Testing mod\Mod Making\obj\Debug\TilledSoil.dll
+C:\Users\joshu\Desktop\Rimworld Local\RimWorld\Mods\TilledSoil\Source\Tilled Soil\Tilled Soil\obj\Debug\TilledSoil.csprojAssemblyReference.cache
+C:\Users\joshu\Desktop\Rimworld Local\RimWorld\Mods\TilledSoil\Source\Tilled Soil\Tilled Soil\obj\Debug\TilledSoil.dll
