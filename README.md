@@ -1,3 +1,2 @@
 # TilledSoil
-Tilled soil but it adds customisability for things like fertility, cost, terrain reqs, ect.
-TODO: Add customisability for work amounts 
+Tilled soil but it adds customisability for fertility, cost, terrarian requirements and work amounts.
